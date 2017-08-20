@@ -1,0 +1,100 @@
+body {
+	width: 1060px;
+	height: 840px;
+	margin: 0 auto;
+	background-image: url("../images/darkness.png");
+}
+
+
+h1 {
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	text-align: center;
+	
+	
+}
+
+h2 {
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	text-align: center;
+
+}
+
+
+
+.picture {
+	text-align:center;
+}
+
+
+
+
+p {
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	
+}
+
+#wins {
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	font-size: 24px;
+	line-height:40px;
+}
+
+#losses {
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	font-size: 24px;
+	line-height:40px;
+}
+
+#yourGuesses {
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	font-size: 24px;
+	line-height:40px;
+}
+
+#guessesLeft {
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	font-size: 24px;
+}
+
+
+
+@media screen and (max-width: 980px) {
+	body{
+		width: 100%;
+
+	}
+}
+
+
+@media screen and (max-width: 768px) {
+		body{ 
+			width: 100%;
+		
+	}
+
+
+}
+
+
+
+
+@media screen and (max-width: 640px){
+}
+
+
+
+
+
+
+
+
+
+
+
